@@ -1,2 +1,2 @@
 # k-chat
-Testing chat app with Angular 12
+Testing chat app with Vue
